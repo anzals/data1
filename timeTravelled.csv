@@ -1,0 +1,241 @@
+﻿Year,Region of workplace,Time travelled to work,Amount of people
+2018,North East,Less than 20 mins,45.4
+2018,North East,Less than 40 mins,85.5
+2018,North East,Less than 60 mins,94.4
+2018,North East,Less than 90 mins,98.8
+2018,North West,Less than 20 mins,39.5
+2018,North West,Less than 40 mins,76.1
+2018,North West,Less than 60 mins,89.1
+2018,North West,Less than 90 mins,97.6
+2018,Yorkshire and The Humber,Less than 20 mins,40.8
+2018,Yorkshire and The Humber,Less than 40 mins,78.6
+2018,Yorkshire and The Humber,Less than 60 mins,91.4
+2018,Yorkshire and The Humber,Less than 90 mins,97.8
+2018,East Midlands,Less than 20 mins,43.9
+2018,East Midlands,Less than 40 mins,81.0
+2018,East Midlands,Less than 60 mins,92.1
+2018,East Midlands,Less than 90 mins,98.0
+2018,West Midlands,Less than 20 mins,39.4
+2018,West Midlands,Less than 40 mins,77.3
+2018,West Midlands,Less than 60 mins,90.6
+2018,West Midlands,Less than 90 mins,97.4
+2018,Eastern,Less than 20 mins,42.8
+2018,Eastern,Less than 40 mins,79.7
+2018,Eastern,Less than 60 mins,90.6
+2018,Eastern,Less than 90 mins,97.0
+2018,London,Less than 20 mins,14.1
+2018,London,Less than 40 mins,42.4
+2018,London,Less than 60 mins,64.0
+2018,London,Less than 90 mins,89.2
+2018,South East,Less than 20 mins,39.9
+2018,South East,Less than 40 mins,75.7
+2018,South East,Less than 60 mins,87.9
+2018,South East,Less than 90 mins,95.7
+2018,South West,Less than 20 mins,46.6
+2018,South West,Less than 40 mins,80.8
+2018,South West,Less than 60 mins,92.0
+2018,South West,Less than 90 mins,97.2
+2018,Wales,Less than 20 mins,48.1
+2018,Wales,Less than 40 mins,83.0
+2018,Wales,Less than 60 mins,93.8
+2018,Wales,Less than 90 mins,98.3
+2018,Scotland,Less than 20 mins,42.3
+2018,Scotland,Less than 40 mins,80.2
+2018,Scotland,Less than 60 mins,90.7
+2018,Scotland,Less than 90 mins,96.8
+2018,Northern Ireland,Less than 20 mins,4.1
+2018,Northern Ireland,Less than 40 mins,26.5
+2018,Northern Ireland,Less than 60 mins,51.8
+2018,Northern Ireland,Less than 90 mins,85.8
+2019,North East,Less than 20 mins,44.6
+2019,North East,Less than 40 mins,83.3
+2019,North East,Less than 60 mins,93.9
+2019,North East,Less than 90 mins,98.6
+2019,North West,Less than 20 mins,39.6
+2019,North West,Less than 40 mins,77.0
+2019,North West,Less than 60 mins,90.9
+2019,North West,Less than 90 mins,97.6
+2019,Yorkshire and The Humber,Less than 20 mins,42.5
+2019,Yorkshire and The Humber,Less than 40 mins,80.0
+2019,Yorkshire and The Humber,Less than 60 mins,91.4
+2019,Yorkshire and The Humber,Less than 90 mins,97.8
+2019,East Midlands,Less than 20 mins,45.1
+2019,East Midlands,Less than 40 mins,81.2
+2019,East Midlands,Less than 60 mins,92.8
+2019,East Midlands,Less than 90 mins,97.8
+2019,West Midlands,Less than 20 mins,36.9
+2019,West Midlands,Less than 40 mins,75.5
+2019,West Midlands,Less than 60 mins,89.6
+2019,West Midlands,Less than 90 mins,97.6
+2019,Eastern,Less than 20 mins,42.7
+2019,Eastern,Less than 40 mins,77.8
+2019,Eastern,Less than 60 mins,90.6
+2019,Eastern,Less than 90 mins,97.3
+2019,London,Less than 20 mins,14.9
+2019,London,Less than 40 mins,42.1
+2019,London,Less than 60 mins,65.2
+2019,London,Less than 90 mins,88.3
+2019,South East,Less than 20 mins,41.9
+2019,South East,Less than 40 mins,76.5
+2019,South East,Less than 60 mins,88.7
+2019,South East,Less than 90 mins,95.8
+2019,South West,Less than 20 mins,44.1
+2019,South West,Less than 40 mins,79.5
+2019,South West,Less than 60 mins,91.4
+2019,South West,Less than 90 mins,97.6
+2019,Wales,Less than 20 mins,43.2
+2019,Wales,Less than 40 mins,81.3
+2019,Wales,Less than 60 mins,93.0
+2019,Wales,Less than 90 mins,98.2
+2019,Scotland,Less than 20 mins,42.4
+2019,Scotland,Less than 40 mins,77.6
+2019,Scotland,Less than 60 mins,91.0
+2019,Scotland,Less than 90 mins,97.3
+2019,Northern Ireland,Less than 20 mins,5.7
+2019,Northern Ireland,Less than 40 mins,26.5
+2019,Northern Ireland,Less than 60 mins,55.2
+2019,Northern Ireland,Less than 90 mins,85.2
+2020,North East,Less than 20 mins,45.6
+2020,North East,Less than 40 mins,84.0
+2020,North East,Less than 60 mins,94.1
+2020,North East,Less than 90 mins,98.3
+2020,North West,Less than 20 mins,39.8
+2020,North West,Less than 40 mins,78.2
+2020,North West,Less than 60 mins,90.8
+2020,North West,Less than 90 mins,97.8
+2020,Yorkshire and The Humber,Less than 20 mins,38.2
+2020,Yorkshire and The Humber,Less than 40 mins,80.0
+2020,Yorkshire and The Humber,Less than 60 mins,91.7
+2020,Yorkshire and The Humber,Less than 90 mins,97.7
+2020,East Midlands,Less than 20 mins,46.2
+2020,East Midlands,Less than 40 mins,83.8
+2020,East Midlands,Less than 60 mins,93.6
+2020,East Midlands,Less than 90 mins,98.2
+2020,West Midlands,Less than 20 mins,42.2
+2020,West Midlands,Less than 40 mins,79.8
+2020,West Midlands,Less than 60 mins,91.7
+2020,West Midlands,Less than 90 mins,96.7
+2020,Eastern,Less than 20 mins,44.1
+2020,Eastern,Less than 40 mins,80.8
+2020,Eastern,Less than 60 mins,92.0
+2020,Eastern,Less than 90 mins,98.1
+2020,London,Less than 20 mins,15.2
+2020,London,Less than 40 mins,43.3
+2020,London,Less than 60 mins,66.3
+2020,London,Less than 90 mins,89.7
+2020,South East,Less than 20 mins,43.3
+2020,South East,Less than 40 mins,78.2
+2020,South East,Less than 60 mins,90.9
+2020,South East,Less than 90 mins,97.1
+2020,South West,Less than 20 mins,45.7
+2020,South West,Less than 40 mins,82.4
+2020,South West,Less than 60 mins,92.8
+2020,South West,Less than 90 mins,98.5
+2020,Wales,Less than 20 mins,49.5
+2020,Wales,Less than 40 mins,85.4
+2020,Wales,Less than 60 mins,94.9
+2020,Wales,Less than 90 mins,98.3
+2020,Scotland,Less than 20 mins,43.7
+2020,Scotland,Less than 40 mins,82.0
+2020,Scotland,Less than 60 mins,91.5
+2020,Scotland,Less than 90 mins,96.6
+2020,Northern Ireland,Less than 20 mins,6.6
+2020,Northern Ireland,Less than 40 mins,30.2
+2020,Northern Ireland,Less than 60 mins,58.2
+2020,Northern Ireland,Less than 90 mins,86.4
+2021,North East,Less than 20 mins,44.3
+2021,North East,Less than 40 mins,85.7
+2021,North East,Less than 60 mins,94.3
+2021,North East,Less than 90 mins,98.4
+2021,North West,Less than 20 mins,41.8
+2021,North West,Less than 40 mins,79.5
+2021,North West,Less than 60 mins,91.4
+2021,North West,Less than 90 mins,97.7
+2021,Yorkshire and The Humber,Less than 20 mins,45.2
+2021,Yorkshire and The Humber,Less than 40 mins,82.6
+2021,Yorkshire and The Humber,Less than 60 mins,92.2
+2021,Yorkshire and The Humber,Less than 90 mins,97.6
+2021,East Midlands,Less than 20 mins,46.6
+2021,East Midlands,Less than 40 mins,84.5
+2021,East Midlands,Less than 60 mins,94.8
+2021,East Midlands,Less than 90 mins,98.5
+2021,West Midlands,Less than 20 mins,42.0
+2021,West Midlands,Less than 40 mins,80.7
+2021,West Midlands,Less than 60 mins,92.0
+2021,West Midlands,Less than 90 mins,97.5
+2021,Eastern,Less than 20 mins,43.5
+2021,Eastern,Less than 40 mins,82.2
+2021,Eastern,Less than 60 mins,93.2
+2021,Eastern,Less than 90 mins,97.9
+2021,London,Less than 20 mins,17.3
+2021,London,Less than 40 mins,47.4
+2021,London,Less than 60 mins,68.6
+2021,London,Less than 90 mins,90.7
+2021,South East,Less than 20 mins,45.6
+2021,South East,Less than 40 mins,79.6
+2021,South East,Less than 60 mins,90.5
+2021,South East,Less than 90 mins,96.9
+2021,South West,Less than 20 mins,46.0
+2021,South West,Less than 40 mins,81.8
+2021,South West,Less than 60 mins,92.6
+2021,South West,Less than 90 mins,97.8
+2021,Wales,Less than 20 mins,48.0
+2021,Wales,Less than 40 mins,84.7
+2021,Wales,Less than 60 mins,94.3
+2021,Wales,Less than 90 mins,98.4
+2021,Scotland,Less than 20 mins,43.6
+2021,Scotland,Less than 40 mins,81.4
+2021,Scotland,Less than 60 mins,92.2
+2021,Scotland,Less than 90 mins,97.7
+2021,Northern Ireland,Less than 20 mins,7.0
+2021,Northern Ireland,Less than 40 mins,28.2
+2021,Northern Ireland,Less than 60 mins,54.8
+2021,Northern Ireland,Less than 90 mins,85.9
+2022,North East,Less than 20 mins,46.3
+2022,North East,Less than 40 mins,83.9
+2022,North East,Less than 60 mins,94.5
+2022,North East,Less than 90 mins,98.5
+2022,North West,Less than 20 mins,43.8
+2022,North West,Less than 40 mins,80.5
+2022,North West,Less than 60 mins,92.2
+2022,North West,Less than 90 mins,97.7
+2022,Yorkshire and The Humber,Less than 20 mins,40.3
+2022,Yorkshire and The Humber,Less than 40 mins,82.4
+2022,Yorkshire and The Humber,Less than 60 mins,93.7
+2022,Yorkshire and The Humber,Less than 90 mins,99.1
+2022,East Midlands,Less than 20 mins,42.7
+2022,East Midlands,Less than 40 mins,84.2
+2022,East Midlands,Less than 60 mins,94.3
+2022,East Midlands,Less than 90 mins,99.0
+2022,West Midlands,Less than 20 mins,41.0
+2022,West Midlands,Less than 40 mins,81.2
+2022,West Midlands,Less than 60 mins,91.5
+2022,West Midlands,Less than 90 mins,97.4
+2022,Eastern,Less than 20 mins,45.6
+2022,Eastern,Less than 40 mins,82.8
+2022,Eastern,Less than 60 mins,93.3
+2022,Eastern,Less than 90 mins,98.0
+2022,London,Less than 20 mins,16.4
+2022,London,Less than 40 mins,46.5
+2022,London,Less than 60 mins,68.4
+2022,London,Less than 90 mins,91.1
+2022,South East,Less than 20 mins,42.7
+2022,South East,Less than 40 mins,81.0
+2022,South East,Less than 60 mins,90.1
+2022,South East,Less than 90 mins,96.6
+2022,South West,Less than 20 mins,48.3
+2022,South West,Less than 40 mins,84.0
+2022,South West,Less than 60 mins,93.6
+2022,South West,Less than 90 mins,97.7
+2022,Wales,Less than 20 mins,47.0
+2022,Wales,Less than 40 mins,85.3
+2022,Wales,Less than 60 mins,95.1
+2022,Wales,Less than 90 mins,99.1
+2022,Scotland,Less than 20 mins,44.4
+2022,Scotland,Less than 40 mins,80.8
+2022,Scotland,Less than 60 mins,92.2
+2022,Scotland,Less than 90 mins,97.6
+2022,Northern Ireland,Less than 20 mins,7.7
+2022,Northern Ireland,Less than 40 mins,31.5
+2022,Northern Ireland,Less than 60 mins,60.7
+2022,Northern Ireland,Less than 90 mins,88.9
