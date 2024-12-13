@@ -1,0 +1,481 @@
+﻿Year,Region of workplace,Vehicles,Amount of people
+2018,North East,Car,78.2
+2018,North East,Motorcycle,0.2
+2018,North East,Bicycle,2.4
+2018,North East,Bus or coach,6.4
+2018,North East,National rail,0.4
+2018,North East,Other rail,2.4
+2018,North East,Walk,8.9
+2018,North East,Other modes,1.1
+2018,North West,Car,75.6
+2018,North West,Motorcycle,0.4
+2018,North West,Bicycle,2.3
+2018,North West,Bus or coach,6.8
+2018,North West,National rail,3.2
+2018,North West,Other rail,1.3
+2018,North West,Walk,9.3
+2018,North West,Other modes,1.1
+2018,Yorkshire and The Humber,Car,74.7
+2018,Yorkshire and The Humber,Motorcycle,0.7
+2018,Yorkshire and The Humber,Bicycle,3.0
+2018,Yorkshire and The Humber,Bus or coach,7.1
+2018,Yorkshire and The Humber,National rail,2.0
+2018,Yorkshire and The Humber,Other rail,1.1
+2018,Yorkshire and The Humber,Walk,10.2
+2018,Yorkshire and The Humber,Other modes,1.2
+2018,East Midlands,Car,79.1
+2018,East Midlands,Motorcycle,0.6
+2018,East Midlands,Bicycle,2.9
+2018,East Midlands,Bus or coach,4.5
+2018,East Midlands,National rail,0.9
+2018,East Midlands,Other rail,0.6
+2018,East Midlands,Walk,11.1
+2018,East Midlands,Other modes,0.3
+2018,West Midlands,Car,79.8
+2018,West Midlands,Motorcycle,0.6
+2018,West Midlands,Bicycle,1.5
+2018,West Midlands,Bus or coach,5.7
+2018,West Midlands,National rail,3.2
+2018,West Midlands,Other rail,0.1
+2018,West Midlands,Walk,8.4
+2018,West Midlands,Other modes,0.7
+2018,Eastern,Car,77.7
+2018,Eastern,Motorcycle,0.6
+2018,Eastern,Bicycle,4.4
+2018,Eastern,Bus or coach,3.2
+2018,Eastern,National rail,2.8
+2018,Eastern,Other rail,1.3
+2018,Eastern,Walk,9.2
+2018,Eastern,Other modes,0.8
+2018,London,Car,27.2
+2018,London,Motorcycle,1.0
+2018,London,Bicycle,4.5
+2018,London,Bus or coach,12.0
+2018,London,National rail,23.1
+2018,London,Other rail,22.6
+2018,London,Walk,8.7
+2018,London,Other modes,0.9
+2018,South East,Car,73.8
+2018,South East,Motorcycle,0.5
+2018,South East,Bicycle,4.1
+2018,South East,Bus or coach,4.8
+2018,South East,National rail,4.4
+2018,South East,Other rail,0.2
+2018,South East,Walk,11.3
+2018,South East,Other modes,0.9
+2018,South West,Car,74.8
+2018,South West,Motorcycle,0.8
+2018,South West,Bicycle,4.3
+2018,South West,Bus or coach,4.5
+2018,South West,National rail,1.9
+2018,South West,Other rail,0.2
+2018,South West,Walk,12.8
+2018,South West,Other modes,0.7
+2018,Wales,Car,80.4
+2018,Wales,Motorcycle,0.4
+2018,Wales,Bicycle,2.5
+2018,Wales,Bus or coach,4.5
+2018,Wales,National rail,2.5
+2018,Wales,Other rail,0.3
+2018,Wales,Walk,9.1
+2018,Wales,Other modes,0.3
+2018,Scotland,Car,70.0
+2018,Scotland,Motorcycle,0.3
+2018,Scotland,Bicycle,2.9
+2018,Scotland,Bus or coach,9.3
+2018,Scotland,National rail,4.5
+2018,Scotland,Other rail,0.2
+2018,Scotland,Walk,11.5
+2018,Scotland,Other modes,1.3
+2018,Northern Ireland,Car,8.5
+2018,Northern Ireland,Motorcycle,0.9
+2018,Northern Ireland,Bicycle,5.5
+2018,Northern Ireland,Bus or coach,6.8
+2018,Northern Ireland,National rail,38.4
+2018,Northern Ireland,Other rail,32.9
+2018,Northern Ireland,Walk,6.1
+2018,Northern Ireland,Other modes,0.9
+2019,North East,Car,76.2
+2019,North East,Motorcycle,0.4
+2019,North East,Bicycle,1.4
+2019,North East,Bus or coach,8.2
+2019,North East,National rail,1.3
+2019,North East,Other rail,1.6
+2019,North East,Walk,9.7
+2019,North East,Other modes,1.2
+2019,North West,Car,76.6
+2019,North West,Motorcycle,0.5
+2019,North West,Bicycle,2.3
+2019,North West,Bus or coach,6.4
+2019,North West,National rail,3.0
+2019,North West,Other rail,2.0
+2019,North West,Walk,8.4
+2019,North West,Other modes,0.7
+2019,Yorkshire and The Humber,Car,74.1
+2019,Yorkshire and The Humber,Motorcycle,0.4
+2019,Yorkshire and The Humber,Bicycle,2.9
+2019,Yorkshire and The Humber,Bus or coach,7.0
+2019,Yorkshire and The Humber,National rail,3.0
+2019,Yorkshire and The Humber,Other rail,0.7
+2019,Yorkshire and The Humber,Walk,10.4
+2019,Yorkshire and The Humber,Other modes,1.1
+2019,East Midlands,Car,80.0
+2019,East Midlands,Motorcycle,0.3
+2019,East Midlands,Bicycle,3.1
+2019,East Midlands,Bus or coach,4.0
+2019,East Midlands,National rail,1.2
+2019,East Midlands,Other rail,0.9
+2019,East Midlands,Walk,9.9
+2019,East Midlands,Other modes,0.6
+2019,West Midlands,Car,78.6
+2019,West Midlands,Motorcycle,0.7
+2019,West Midlands,Bicycle,1.5
+2019,West Midlands,Bus or coach,6.8
+2019,West Midlands,National rail,4.1
+2019,West Midlands,Other rail,0.9
+2019,West Midlands,Walk,6.5
+2019,West Midlands,Other modes,0.8
+2019,Eastern,Car,78.9
+2019,Eastern,Motorcycle,0.3
+2019,Eastern,Bicycle,3.7
+2019,Eastern,Bus or coach,3.1
+2019,Eastern,National rail,3.5
+2019,Eastern,Other rail,0.9
+2019,Eastern,Walk,9.2
+2019,Eastern,Other modes,0.4
+2019,London,Car,27.0
+2019,London,Motorcycle,1.2
+2019,London,Bicycle,4.2
+2019,London,Bus or coach,11.6
+2019,London,National rail,23.6
+2019,London,Other rail,24.0
+2019,London,Walk,7.6
+2019,London,Other modes,0.8
+2019,South East,Car,75.2
+2019,South East,Motorcycle,0.7
+2019,South East,Bicycle,3.6
+2019,South East,Bus or coach,3.7
+2019,South East,National rail,4.5
+2019,South East,Other rail,0.5
+2019,South East,Walk,10.6
+2019,South East,Other modes,0.8
+2019,South West,Car,77.1
+2019,South West,Motorcycle,0.9
+2019,South West,Bicycle,3.9
+2019,South West,Bus or coach,4.5
+2019,South West,National rail,1.7
+2019,South West,Other rail,0.7
+2019,South West,Walk,9.2
+2019,South West,Other modes,2.0
+2019,Wales,Car,80.3
+2019,Wales,Motorcycle,0.4
+2019,Wales,Bicycle,1.7
+2019,Wales,Bus or coach,5.2
+2019,Wales,National rail,2.1
+2019,Wales,Other rail,0.9
+2019,Wales,Walk,8.4
+2019,Wales,Other modes,1.0
+2019,Scotland,Car,70.4
+2019,Scotland,Motorcycle,0.6
+2019,Scotland,Bicycle,2.3
+2019,Scotland,Bus or coach,9.5
+2019,Scotland,National rail,5.0
+2019,Scotland,Other rail,0.1
+2019,Scotland,Walk,10.9
+2019,Scotland,Other modes,1.2
+2019,Northern Ireland,Car,9.3
+2019,Northern Ireland,Motorcycle,1.7
+2019,Northern Ireland,Bicycle,4.4
+2019,Northern Ireland,Bus or coach,6.4
+2019,Northern Ireland,National rail,36.8
+2019,Northern Ireland,Other rail,36.2
+2019,Northern Ireland,Walk,4.7
+2019,Northern Ireland,Other modes,0.5
+2020,North East,Car,74.5
+2020,North East,Motorcycle,0.5
+2020,North East,Bicycle,2.1
+2020,North East,Bus or coach,7.4
+2020,North East,National rail,1.0
+2020,North East,Other rail,1.4
+2020,North East,Walk,12.3
+2020,North East,Other modes,1.0
+2020,North West,Car,74.9
+2020,North West,Motorcycle,1.1
+2020,North West,Bicycle,2.2
+2020,North West,Bus or coach,6.9
+2020,North West,National rail,3.5
+2020,North West,Other rail,1.4
+2020,North West,Walk,9.0
+2020,North West,Other modes,0.9
+2020,Yorkshire and The Humber,Car,76.4
+2020,Yorkshire and The Humber,Motorcycle,0.5
+2020,Yorkshire and The Humber,Bicycle,3.1
+2020,Yorkshire and The Humber,Bus or coach,5.6
+2020,Yorkshire and The Humber,National rail,2.4
+2020,Yorkshire and The Humber,Other rail,0.5
+2020,Yorkshire and The Humber,Walk,10.9
+2020,Yorkshire and The Humber,Other modes,0.8
+2020,East Midlands,Car,79.1
+2020,East Midlands,Motorcycle,0.7
+2020,East Midlands,Bicycle,4.0
+2020,East Midlands,Bus or coach,4.0
+2020,East Midlands,National rail,1.1
+2020,East Midlands,Other rail,0.6
+2020,East Midlands,Walk,9.7
+2020,East Midlands,Other modes,0.7
+2020,West Midlands,Car,80.7
+2020,West Midlands,Motorcycle,1.0
+2020,West Midlands,Bicycle,2.1
+2020,West Midlands,Bus or coach,4.9
+2020,West Midlands,National rail,1.5
+2020,West Midlands,Other rail,1.0
+2020,West Midlands,Walk,7.4
+2020,West Midlands,Other modes,0.9
+2020,Eastern,Car,77.2
+2020,Eastern,Motorcycle,0.7
+2020,Eastern,Bicycle,4.3
+2020,Eastern,Bus or coach,3.4
+2020,Eastern,National rail,3.0
+2020,Eastern,Other rail,0.3
+2020,Eastern,Walk,10.0
+2020,Eastern,Other modes,0.7
+2020,London,Car,26.7
+2020,London,Motorcycle,0.7
+2020,London,Bicycle,6.5
+2020,London,Bus or coach,11.2
+2020,London,National rail,22.9
+2020,London,Other rail,22.3
+2020,London,Walk,8.7
+2020,London,Other modes,0.9
+2020,South East,Car,75.6
+2020,South East,Motorcycle,0.9
+2020,South East,Bicycle,3.4
+2020,South East,Bus or coach,3.9
+2020,South East,National rail,4.1
+2020,South East,Other rail,0.4
+2020,South East,Walk,11.1
+2020,South East,Other modes,0.6
+2020,South West,Car,75.8
+2020,South West,Motorcycle,0.7
+2020,South West,Bicycle,5.1
+2020,South West,Bus or coach,3.4
+2020,South West,National rail,1.4
+2020,South West,Other rail,0.2
+2020,South West,Walk,12.7
+2020,South West,Other modes,0.8
+2020,Wales,Car,82.6
+2020,Wales,Motorcycle,0.3
+2020,Wales,Bicycle,1.7
+2020,Wales,Bus or coach,2.4
+2020,Wales,National rail,2.5
+2020,Wales,Other rail,0.4
+2020,Wales,Walk,9.8
+2020,Wales,Other modes,0.3
+2020,Scotland,Car,68.5
+2020,Scotland,Motorcycle,0.5
+2020,Scotland,Bicycle,3.3
+2020,Scotland,Bus or coach,7.7
+2020,Scotland,National rail,3.9
+2020,Scotland,Other rail,0.5
+2020,Scotland,Walk,14.3
+2020,Scotland,Other modes,1.5
+2020,Northern Ireland,Car,8.9
+2020,Northern Ireland,Motorcycle,0.9
+2020,Northern Ireland,Bicycle,7.8
+2020,Northern Ireland,Bus or coach,8.4
+2020,Northern Ireland,National rail,34.4
+2020,Northern Ireland,Other rail,31.8
+2020,Northern Ireland,Walk,7.0
+2020,Northern Ireland,Other modes,0.8
+2021,North East,Car,75.9
+2021,North East,Motorcycle,0.1
+2021,North East,Bicycle,2.5
+2021,North East,Bus or coach,6.6
+2021,North East,National rail,1.0
+2021,North East,Other rail,2.5
+2021,North East,Walk,10.5
+2021,North East,Other modes,1.0
+2021,North West,Car,73.3
+2021,North West,Motorcycle,0.4
+2021,North West,Bicycle,2.5
+2021,North West,Bus or coach,6.9
+2021,North West,National rail,3.6
+2021,North West,Other rail,1.7
+2021,North West,Walk,10.6
+2021,North West,Other modes,1.1
+2021,Yorkshire and The Humber,Car,74.8
+2021,Yorkshire and The Humber,Motorcycle,0.4
+2021,Yorkshire and The Humber,Bicycle,3.6
+2021,Yorkshire and The Humber,Bus or coach,4.7
+2021,Yorkshire and The Humber,National rail,2.0
+2021,Yorkshire and The Humber,Other rail,0.5
+2021,Yorkshire and The Humber,Walk,12.3
+2021,Yorkshire and The Humber,Other modes,1.3
+2021,East Midlands,Car,79.8
+2021,East Midlands,Motorcycle,0.1
+2021,East Midlands,Bicycle,3.5
+2021,East Midlands,Bus or coach,5.0
+2021,East Midlands,National rail,0.8
+2021,East Midlands,Other rail,0.5
+2021,East Midlands,Walk,9.7
+2021,East Midlands,Other modes,0.5
+2021,West Midlands,Car,78.5
+2021,West Midlands,Motorcycle,0.9
+2021,West Midlands,Bicycle,1.8
+2021,West Midlands,Bus or coach,6.7
+2021,West Midlands,National rail,2.0
+2021,West Midlands,Other rail,0.8
+2021,West Midlands,Walk,8.2
+2021,West Midlands,Other modes,0.9
+2021,Eastern,Car,76.5
+2021,Eastern,Motorcycle,0.8
+2021,Eastern,Bicycle,4.9
+2021,Eastern,Bus or coach,3.6
+2021,Eastern,National rail,2.1
+2021,Eastern,Other rail,0.5
+2021,Eastern,Walk,10.5
+2021,Eastern,Other modes,1.0
+2021,London,Car,27.3
+2021,London,Motorcycle,0.7
+2021,London,Bicycle,6.7
+2021,London,Bus or coach,11.9
+2021,London,National rail,20.3
+2021,London,Other rail,21.6
+2021,London,Walk,10.2
+2021,London,Other modes,1.2
+2021,South East,Car,74.7
+2021,South East,Motorcycle,0.5
+2021,South East,Bicycle,3.0
+2021,South East,Bus or coach,3.2
+2021,South East,National rail,4.2
+2021,South East,Other rail,0.5
+2021,South East,Walk,13.4
+2021,South East,Other modes,0.7
+2021,South West,Car,75.0
+2021,South West,Motorcycle,1.0
+2021,South West,Bicycle,4.0
+2021,South West,Bus or coach,3.7
+2021,South West,National rail,1.8
+2021,South West,Other rail,1.0
+2021,South West,Walk,13.5
+2021,South West,Other modes,0.9
+2021,Wales,Car,81.5
+2021,Wales,Motorcycle,0.5
+2021,Wales,Bicycle,0.5
+2021,Wales,Bus or coach,4.1
+2021,Wales,National rail,1.8
+2021,Wales,Other rail,0.5
+2021,Wales,Walk,9.5
+2021,Wales,Other modes,1.5
+2021,Scotland,Car,68.0
+2021,Scotland,Motorcycle,0.4
+2021,Scotland,Bicycle,2.9
+2021,Scotland,Bus or coach,8.3
+2021,Scotland,National rail,4.2
+2021,Scotland,Other rail,0.5
+2021,Scotland,Walk,14.3
+2021,Scotland,Other modes,1.0
+2021,Northern Ireland,Car,9.8
+2021,Northern Ireland,Motorcycle,1.5
+2021,Northern Ireland,Bicycle,9.1
+2021,Northern Ireland,Bus or coach,7.4
+2021,Northern Ireland,National rail,34.4
+2021,Northern Ireland,Other rail,31.5
+2021,Northern Ireland,Walk,6.5
+2021,Northern Ireland,Other modes,0.5
+2022,North East,Car,76.0
+2022,North East,Motorcycle,0.5
+2022,North East,Bicycle,1.6
+2022,North East,Bus or coach,7.7
+2022,North East,National rail,0.8
+2022,North East,Other rail,2.3
+2022,North East,Walk,10.5
+2022,North East,Other modes,0.6
+2022,North West,Car,75.6
+2022,North West,Motorcycle,1.0
+2022,North West,Bicycle,2.3
+2022,North West,Bus or coach,5.1
+2022,North West,National rail,3.6
+2022,North West,Other rail,1.5
+2022,North West,Walk,9.8
+2022,North West,Other modes,1.1
+2022,Yorkshire and The Humber,Car,74.8
+2022,Yorkshire and The Humber,Motorcycle,0.6
+2022,Yorkshire and The Humber,Bicycle,2.9
+2022,Yorkshire and The Humber,Bus or coach,6.9
+2022,Yorkshire and The Humber,National rail,1.7
+2022,Yorkshire and The Humber,Other rail,0.4
+2022,Yorkshire and The Humber,Walk,12.0
+2022,Yorkshire and The Humber,Other modes,0.7
+2022,East Midlands,Car,78.3
+2022,East Midlands,Motorcycle,1.4
+2022,East Midlands,Bicycle,3.0
+2022,East Midlands,Bus or coach,5.0
+2022,East Midlands,National rail,1.3
+2022,East Midlands,Other rail,0.4
+2022,East Midlands,Walk,9.9
+2022,East Midlands,Other modes,0.7
+2022,West Midlands,Car,77.9
+2022,West Midlands,Motorcycle,0.5
+2022,West Midlands,Bicycle,2.2
+2022,West Midlands,Bus or coach,5.5
+2022,West Midlands,National rail,3.0
+2022,West Midlands,Other rail,0.2
+2022,West Midlands,Walk,9.7
+2022,West Midlands,Other modes,1.0
+2022,Eastern,Car,76.7
+2022,Eastern,Motorcycle,0.3
+2022,Eastern,Bicycle,4.3
+2022,Eastern,Bus or coach,3.8
+2022,Eastern,National rail,2.8
+2022,Eastern,Other rail,0.6
+2022,Eastern,Walk,11.2
+2022,Eastern,Other modes,0.3
+2022,London,Car,29.0
+2022,London,Motorcycle,0.9
+2022,London,Bicycle,5.8
+2022,London,Bus or coach,12.5
+2022,London,National rail,17.3
+2022,London,Other rail,23.1
+2022,London,Walk,10.9
+2022,London,Other modes,0.5
+2022,South East,Car,73.7
+2022,South East,Motorcycle,0.9
+2022,South East,Bicycle,4.0
+2022,South East,Bus or coach,3.6
+2022,South East,National rail,4.8
+2022,South East,Other rail,0.6
+2022,South East,Walk,11.5
+2022,South East,Other modes,0.9
+2022,South West,Car,74.4
+2022,South West,Motorcycle,1.5
+2022,South West,Bicycle,3.1
+2022,South West,Bus or coach,3.9
+2022,South West,National rail,2.0
+2022,South West,Other rail,0.4
+2022,South West,Walk,13.7
+2022,South West,Other modes,1.0
+2022,Wales,Car,78.1
+2022,Wales,Motorcycle,0.3
+2022,Wales,Bicycle,2.4
+2022,Wales,Bus or coach,5.1
+2022,Wales,National rail,1.6
+2022,Wales,Other rail,0.8
+2022,Wales,Walk,11.1
+2022,Wales,Other modes,0.6
+2022,Scotland,Car,70.2
+2022,Scotland,Motorcycle,0.3
+2022,Scotland,Bicycle,3.0
+2022,Scotland,Bus or coach,9.0
+2022,Scotland,National rail,3.6
+2022,Scotland,Other rail,0.4
+2022,Scotland,Walk,12.7
+2022,Scotland,Other modes,0.8
+2022,Northern Ireland,Car,11.1
+2022,Northern Ireland,Motorcycle,0.8
+2022,Northern Ireland,Bicycle,7.1
+2022,Northern Ireland,Bus or coach,9.5
+2022,Northern Ireland,National rail,28.0
+2022,Northern Ireland,Other rail,35.3
+2022,Northern Ireland,Walk,7.8
+2022,Northern Ireland,Other modes,0.4
